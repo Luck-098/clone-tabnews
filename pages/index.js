@@ -25,7 +25,7 @@ export default function PaginaNamorada() {
 
         {/* Segunda frase sugerida */}
         <p className="text-sm text-pink-500 font-semibold uppercase tracking-widest mb-8">
-          Feito com código e muito carinho
+          Feito com muito carinho. obrigado por tudo mozim.
         </p>
 
         {/* Botão Decorativo */}
